@@ -1,0 +1,1 @@
+This is a simulated content of script.js for the student check-in system.

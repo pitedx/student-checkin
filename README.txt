@@ -1,0 +1,1 @@
+This is a simulated content of README.txt for the student check-in system.
